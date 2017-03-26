@@ -1,4 +1,4 @@
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+11 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -56,7 +56,7 @@ Ocena seminar-i                            20
 
 Ocena 
 
-StudijskiProgram Studijski program/studijski programi: Informacioni sistemi i tehnologije
+12 StudijskiProgram Studijski program/studijski programi: Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -142,7 +142,7 @@ Ocena kolokvijum-i                            30                  usmeni ispit  
 
 Ocena seminar-i                               50                  domaći zadaci                     20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+13 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -218,7 +218,7 @@ Ocena kolokvijum-i                           20
 
 Ocena seminar-i                              20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+14 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -294,7 +294,7 @@ Ocena Predispitne obaveze                        Poena         Završni ispit   
 
 Ocena Izrada projekta                             100
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+15 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -374,7 +374,7 @@ Ocena kolokvijum-i                        20
 
 Ocena seminar-i                           20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+16 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -459,7 +459,7 @@ Ocena praktična nastava                     20
 
 Ocena seminar-i                             50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+17 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -541,7 +541,7 @@ Ocena        Predispitne obaveze                   Poena                   Zavr�
 PrakticnaNastava Praktična nastava                      20                  Pismeni ispit                          70
 PrakticnaNastava Seminarski rad                         10
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+18 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -617,7 +617,7 @@ Ocena kolokvijum-i                        30                pismeni ispit       
 
 Ocena seminar-i                           20                usmeni ispit                     10
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+19 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -695,7 +695,7 @@ Ocena kolokvijum-i                           20
 
 Ocena seminar-i                              20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+20 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -771,7 +771,7 @@ Ocena Aktivnost u toku predavanja              10               Usmeni ispit    
 
 Ocena Seminar-i                               35
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+21 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -851,7 +851,7 @@ Ocena Domaći zadatak                      20                Pismeni ispit      
 
 Ocena Odbrana projekta                    30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+22 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -920,7 +920,7 @@ Ocena Testovi na lab. vežbama                  30                     Pismeni i
 
 Ocena                                                                 Odbrana seminarskog rada              40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+23 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1010,7 +1010,7 @@ Ocena kolokvijum-i                        20
 
 Ocena seminar-i                           10
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+24 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1086,7 +1086,7 @@ Ocena Domaći zadatak                     10                Pismeni ispit       
 
 Ocena Odbrana projekta                     40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+25 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1158,7 +1158,7 @@ Ocena      Predispitne obaveze                Poena                Završni ispi
 
 Ocena Seminar-i                         50                Usmeni ispit                            50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+26 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1240,7 +1240,7 @@ Ocena kolokvijum-i                          20
 
 Ocena seminar-i                             20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+27 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1339,7 +1339,7 @@ Ocena kolokvijum-i                        40
 
 Ocena seminarski rad                       5
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+28 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1413,7 +1413,7 @@ Ocena Domaći zadaci                          40                     Pismeni isp
 
 Ocena                                                               Seminarski rad- projekat               40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+29 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1483,7 +1483,7 @@ Ocena aktivnost u toku predavanja        15               pismeni ispit         
 
 Ocena seminar-i                         35               usmeni ispt                                25
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+30 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1567,7 +1567,7 @@ Ocena Aktivnost u toku predavanja                10                        Pisme
 
 Ocena Kolokvijum-i                              40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+31 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1651,7 +1651,7 @@ Ocena aktivnost u toku predavanja              10                      pismeni i
 
 Ocena kolokvijum-i                            40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+32 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1725,7 +1725,7 @@ Ocena aktivnost u toku predavanja                10                     pismeni 
 
 Ocena kolokvijum-i                              40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+33 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1802,7 +1802,7 @@ Ocena        Predispitne obaveze                   Poena                      Za
 PrakticnaNastava Praktična nastava                     30                      Pismeni ispit                         30
 PrakticnaNastava Seminarski rad                        40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+34 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1878,7 +1878,7 @@ Ocena       Predispitne obaveze                           Poena                 
 
 Ocena projektni zadatak                           0 – 20                pismeni ispit                             0 - 80
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+35 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -1978,7 +1978,7 @@ Ocena Domaći zadaci                            40                    Pismeni is
 
 Ocena                                                                Seminarski rad/projekat              20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+36 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2048,7 +2048,7 @@ Ocena Seminarski rad                         40                    Pismeni ispit
 
 Ocena                                                              Seminarski rad/projekat                  40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+37 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2146,7 +2146,7 @@ Ocena Domaći zadaci                           40                      Pismeni i
 
 Ocena                                                                 Seminarski rad                      40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+38 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2220,7 +2220,7 @@ Ocena Domaći zadaci                          40                      Pismeni is
 
 Ocena                                                                Seminarski rad/projekat              40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+39 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2306,7 +2306,7 @@ Ocena kolokvijum-i                           20
 
 Ocena seminar-i                              20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+40 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2380,7 +2380,7 @@ Ocena (izrada i odbrana projektnog zadatka)
 
 Ocena kolokvijum-i                           30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+41 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2456,7 +2456,7 @@ Ocena aktivnost u toku predavanja         10               pismeni ispit        
 
 Ocena kolokvijum-i                       20               usmeni ispt                             50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+42 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2535,7 +2535,7 @@ Ocena aktivnost u toku predavanja         10               pismeni ispit        
 
 Ocena kolokvijum-i                       20               usmeni ispt                             50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+43 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2611,7 +2611,7 @@ Ocena kolokvijum-i                       20               usmeni ispt           
 
 Ocena seminar-i                          5
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+44 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2683,7 +2683,7 @@ Ocena aktivnost u toku predavanja         10               pismeni ispit        
 
 Ocena kolokvijum-i                       25               usmeni ispt                             40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+45 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2759,7 +2759,7 @@ Ocena aktivnost u toku predavanja            15               pismeni ispit     
 
 Ocena seminar-i                             35               usmeni ispt                                     25
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+46 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2851,7 +2851,7 @@ Ocena praktična nastava                     10                   usmeni ispt
 
 Ocena prezentacija projekta                 50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+47 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2929,7 +2929,7 @@ Ocena praktična nastava                     20
 
 Ocena seminar-i                             30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+48 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -2987,7 +2987,7 @@ Ocena                                                           Projektni rad   
 
 Ocena                                                           Usmeni test                        20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+49 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3068,7 +3068,7 @@ MetodaIzvodjena kolokvijum-i                       10                     Odbran
 
 MetodaIzvodjena projekat                           40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+50 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3142,7 +3142,7 @@ Ocena kolokvijum-i                     50
 
 Ocena seminar-i                        10
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+51 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3222,7 +3222,7 @@ Ocena kolokvijum-i                        40
 
 Ocena seminar-i, domaći                   20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+52 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3316,7 +3316,7 @@ Ocena                                                             seminarkog rad
 
 Ocena                                                             pismeni ispit - teorija               12
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+53 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3392,7 +3392,7 @@ Ocena                                                alternativno
 
 Ocena pismeni ispit                          60                  usmeni ispit                        40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+54 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3475,7 +3475,7 @@ Ocena Domaći zadaci                          40                      Pismeni is
 
 Ocena                                                                Seminarski rad                       40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+55 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3551,7 +3551,7 @@ Ocena Domaći zadatak                       20                     Pismeni ispit
 
 Ocena Odbrana projekta                     30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+56 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3631,7 +3631,7 @@ Ocena seminar-i                           40                   pismeni ispit    
 
 Ocena                                                          usmeni ispt                        20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+57 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3705,7 +3705,7 @@ Ocena Testovi na lab. vežbama                 30                    Pismeni isp
 
 Ocena                                                               Odbrana seminarskog rada                40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+58 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3801,7 +3801,7 @@ Ocena Domaći zadatak                          30                     Pismeni is
 
 Ocena Seminarski rad                          20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+59 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3887,7 +3887,7 @@ Ocena Domaći zadatak                         30                     Pismeni isp
 
 Ocena Odbrana projekta                       20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+60 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -3969,7 +3969,7 @@ Ocena aktivnost u toku predavanja              10                  pismeni ispit
 
 Ocena projektni rad (obavezno)                30                  usmeni ispit                         20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+61 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4051,7 +4051,7 @@ Ocena        Predispitne obaveze                     Poena                     Z
 
 Ocena seminar-i                                20                     ispit na računaru             80
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+62 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4127,7 +4127,7 @@ Ocena aktivnost u toku predavanja            10               pismeni ispit     
 
 Ocena praktična nastava                     40               usmeni ispt                                     20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+63 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4181,7 +4181,7 @@ Ocena         Predispitne obaveze              Poena                Završni isp
 
 Ocena seminar-i                                  70         Odbrana seminarskog rada             30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+64 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4257,7 +4257,7 @@ Ocena projektni zadatak                              15         pismeni ispit (a
 
 Ocena aktivnosti na nastavi                           5         usmeni ispt (alt. sa kol. teor.)             40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+65 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4319,7 +4319,7 @@ Ocena projektni zadatak                              15         pismeni ispit (a
 
 Ocena aktivnosti na nastavi                           5         usmeni ispt (alt. sa kol. teor.)             40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+66 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4401,7 +4401,7 @@ Ocena aktivnost u toku predavanja              10                     usmeni isp
 
 Ocena seminarski rad                          20                     projektni rad                        40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+67 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4481,7 +4481,7 @@ Ocena       Predispitne obaveze                   Poena                    Zavr�
 
 Ocena Projektni rad                                  40           Pismeni deo ispita                          60
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+68 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4558,7 +4558,7 @@ Ocena Kolokvijum                            25
 
 Ocena Odbrana projekta                      15
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+69 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4646,7 +4646,7 @@ Ocena praktična nastava                                 30            usmeni is
 
 Ocena prezentacija projekta                             30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+70 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4722,7 +4722,7 @@ Ocena aktivnost u toku predavanja        15               pismeni ispit         
 
 Ocena seminar-i                         35               usmeni ispt                          25
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+71 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4808,7 +4808,7 @@ Ocena aktivnost u toku predavanja            5                     pismeni ispit
 
 Ocena kolokvijum-i                          30                    usmeni ispt                          45
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+72 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4888,7 +4888,7 @@ Ocena       Predispitne obaveze               Poena                Završni ispi
 
 Ocena kolokvijum-i                      50                usmeni ispt                            50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+73 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -4984,7 +4984,7 @@ Ocena rečnik pojmova                                  3
 
 Ocena ocena studenata                                 2
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+74 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5057,7 +5057,7 @@ Ocena praktična nastava                     5                   usmeni ispt    
 
 Ocena seminar-i                             50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+75 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5133,7 +5133,7 @@ Ocena kolokvijumi (nije obavezno)                              20 usmeni ispit  
 
 Ocena projektni rad (obavezno)                                 30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+76 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5207,7 +5207,7 @@ Ocena        Predispitne obaveze                  Poena                    Zavr�
 
 Ocena                                                            ispit na računaru                  100
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+77 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5295,7 +5295,7 @@ Ocena aktivnost u toku predavanja                                10 pismeni ispi
 
 Ocena projektni rad (obavezno)                                  30 usmeni ispit                       20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+78 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5369,7 +5369,7 @@ Ocena Kolokvijum                                30          Pismeni deo ispita  
 
 Ocena                                                       Usmeni deo ispita                     30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+79 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5431,7 +5431,7 @@ Ocena Predispitne obaveze                         Poena          Završni ispit 
 
 Ocena Seminarski rad                                70           Usmeni    deo ispita                        30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+80 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5517,7 +5517,7 @@ Ocena        Predispitne obaveze                   Poena                     Zav
 
 Ocena kolokvijum-i                           50                    pismeni ispit                    50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+81 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5603,7 +5603,7 @@ Ocena kolokvijum-i                                  30           pismeni ispit  
 
 Ocena seminar-i                                     20           usmeni ispit                                 10
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+82 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta Projektovanje softvera
@@ -5705,7 +5705,7 @@ Ocena seminar-i                                30                 usmeni ispit  
 
 Ocena                                                             ispit na računaru                  30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+83 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5785,7 +5785,7 @@ Ocena Seminarski rad                      5
 
 Ocena kolokvijum-i                        55
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+84 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5858,7 +5858,7 @@ Ocena Domaći zadatak                                20             Pismeni deo 
 
 Ocena Odbrana projekta                             30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+85 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5906,7 +5906,7 @@ Ocena        Predispitne obaveze                 Poena                    Završ
 
 Ocena                                                            ispit preko praktičnog projekta    100
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+86 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -5990,7 +5990,7 @@ Ocena Domaći zadaci                            50                     Pismeni i
 
 Ocena                                                                 Usmeni ispit                           25
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+87 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6076,7 +6076,7 @@ Ocena                                                             Projektni zada
 
 Ocena                                                             Usmeni test                       20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+88 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6162,7 +6162,7 @@ Ocena         Predispitne obaveze                    Poena                  Zavr
 
 Ocena                                                               ispit preko praktičnog projekta    100
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+89 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6248,7 +6248,7 @@ Ocena seminar-i                          20                   ispit na računaru
 
 Ocena                                                         usmeni ispit                      50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+90 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6314,7 +6314,7 @@ Ocena praktična nastava                       20
 
 Ocena seminar-i                               20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+91 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6390,7 +6390,7 @@ Ocena seminar-i                           10
 
 Ocena kolokvijum-i                        30
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+92 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6460,7 +6460,7 @@ Ocena kolokvijum-i                         20
 
 Ocena seminar-i                            20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+93 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6536,7 +6536,7 @@ Ocena kolokvijum-i                            20
 
 Ocena seminar-i                               20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+94 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6612,7 +6612,7 @@ Ocena    Predispitne obaveze          Poena                          Završni is
 
 Ocena kolokvijum-i                      50         pismeni ispit (kombinovano teorija i zadaci)             50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+95 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6692,7 +6692,7 @@ Ocena kolokvijum-i                         20
 
 Ocena seminar-i                            20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+96 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6764,7 +6764,7 @@ Ocena                                                             Pismeni ispit 
 
 Ocena                                                             Usmeni ispit                         50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+97 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6849,7 +6849,7 @@ Ocena Testovi na lab. vežbama                15                    Pismeni ispi
 
 Ocena                                                              Usmeni ispit                     40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+98 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6917,7 +6917,7 @@ Ocena Testovi na lab. vežbama                  30                     Pismeni i
 
 Ocena                                                                 Odbrana seminarskog rada        40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+99 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -6997,7 +6997,7 @@ Ocena Seminarski rad                             16           pismeni ispit- teo
 
 Ocena Test                                       24
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+100 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7071,7 +7071,7 @@ Ocena aktivnost u toku predavanja        15               pismeni ispit         
 
 Ocena seminar-i                         35               usmeni ispt                             25
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+101 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7143,7 +7143,7 @@ Ocena aktivnost u toku predavanja        15               pismeni ispit         
 
 Ocena seminar-i                         35               usmeni ispt                          25
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+102 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7231,7 +7231,7 @@ Ocena Kolokvijumi                                           30
 
 Ocena Seminarski rad                                        15
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+103 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7309,7 +7309,7 @@ Ocena Testovi na lab. vežbama                30                     Pismeni isp
 
 Ocena                                                               Odbrana seminarskog rada             40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+104 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne kademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7379,7 +7379,7 @@ Ocena testovi na lab. vežbama                 30                    pismeni isp
 
 Ocena                                                               odbrana projekta                        40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+105 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7448,7 +7448,7 @@ Ocena Testovi na lab. vežbama                30                    Pismeni ispi
 
 Ocena                                                              Odbrana seminarskog rada               40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+106 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7541,7 +7541,7 @@ Ocena kolokvijumi                                  30
 
 Ocena seminarski rad                               15
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+107 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7617,7 +7617,7 @@ Ocena kolokvijum-i                                50
 
 Ocena seminar-i                                   10
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+108 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7715,7 +7715,7 @@ Ocena Domaći zadaci                          40                      Pismeni is
 
 Ocena                                                                Seminarski rad                         40
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+109 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7769,7 +7769,7 @@ Ocena       Predispitne obaveze                  Poena                    Završ
 
 Ocena                                                            ispit preko praktičnog projekta       100
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+110 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnove akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7843,7 +7843,7 @@ Ocena         Predispitne obaveze                      Poena             Završn
 
 Ocena Izrada projekta                                   100
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+111 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -7915,7 +7915,7 @@ Ocena                                                           pismeni ispit   
 
 Ocena                                                           usmeni ispit                       20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+112 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -8011,7 +8011,7 @@ Ocena praktična nastava                         10                     usmeni i
 
 Ocena kolokvijum-i                              20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+113 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -8097,7 +8097,7 @@ Ocena praktična nastava                       10                      usmeni is
 
 Ocena kolokvijum-i                            20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+114 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -8179,7 +8179,7 @@ Ocena praktična nastava                        10                      usmeni i
 
 Ocena kolokvijum-i                             20
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+115 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -8249,7 +8249,7 @@ Ocena aktivnost u toku predavanja         15               pismeni ispit        
 
 Ocena seminar-i                          35               usmeni ispt                             25
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+116 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 
@@ -8306,7 +8306,7 @@ Ocena       Predispitne obaveze                 Poena                  Završni 
 
 Ocena seminarski rad                              50          pismeni ispit                           50
 
-StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+117 StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
 VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
 NazivPredmeta Naziv predmeta:
 NazivPredmeta 

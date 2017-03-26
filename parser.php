@@ -21,7 +21,9 @@
 */
 
 
+global $brojac;
 
+$brojac = 0;
 
 $celine = array( "StudijskiProgram" => "Studijski program" , "VrstaStudija" => "Vrsta i" , "NazivPredmeta" => "Naziv predmeta" , "Nastavnik" => "Nastavnik" , "Status" => "Status predmeta" , "ESPB" => "Broj ESPB" , "Uslov" => "Uslov:" , "CiljPredmeta" => "Cilj predmeta" , "Ishod" => "Ishod predmeta" , "SadrzajPredmeta" => "Sadržaj predmeta" , "TeorijskaNastava" => "Teorijska nastava" , "PrakticnaNastava" => "Praktična nastava" , "Literatura" => "Literatura" , "BrojCasova" => "Broj časova" , "MetodaIzvodjena" => "Metode izvođenja" , "Ocena" => "Ocena znanja"  );
 
@@ -98,81 +100,99 @@ function provera($niz='', $line)
 
 function StudijskiProgram($value='')
 {
-	print_r("StudijskiProgram ". $value . "\n");
+
+	global $brojac;
+	$brojac++;
+	print_r( $brojac . " StudijskiProgram ". $value . "\n");
 	# funkcija br 1
 }
 function VrstaStudija($value='')
 {
+	global $brojac;
 	print_r("VrstaStudija ". $value . "\n");
 	# funkcija br 2
 }
 function NazivPredmeta($value='')
 {
+	global $brojac;
 	print_r("NazivPredmeta ". $value . "\n");
 	# funkcija br 3
 }
 function Nastavnik($value='')
 {
+	global $brojac;
 	print_r("Nastavnik ". $value . "\n");
 	# funkcija br 4
 }
 function Status($value='')
 {
+	global $brojac;
 	print_r("Status ". $value . "\n");
 	# funkcija br 5
 }
 function ESPB($value='')
 {
+	global $brojac;
 	print_r("ESPB ". $value . "\n");
 	# funkcija br 6
 }
 function Uslov($value='')
 {
+	global $brojac;
 	print_r("Uslov ". $value . "\n");
 	# funkcija br 7
 }
 function CiljPredmeta($value='')
 {
+	global $brojac;
 	print_r("CiljPredmeta ". $value . "\n");
 	# funkcija br 8
 }
 function Ishod($value='')
 {
+	global $brojac;
 	print_r("Ishod ". $value . "\n");
 	# funkcija br 9
 }
 function SadrzajPredmeta($value='')
 {
+	global $brojac;
 	print_r("SadrzajPredmeta ". $value . "\n");
 	# funkcija br 10
 }
 function TeorijskaNastava($value='')
 {
+	global $brojac;
 	print_r("TeorijskaNastava ". $value . "\n");
 	# funkcija br 11
 }
 function PrakticnaNastava($value='')
 {
+	global $brojac;
 	print_r("PrakticnaNastava ". $value . "\n");
 	# funkcija br 12
 }
 function Literatura($value='')
 {
+	global $brojac;
 	print_r("Literatura ". $value . "\n");
 	# funkcija br 13
 }
 function BrojCasova($value='')
 {
+	global $brojac;
 	print_r("BrojCasova ". $value . "\n");
 	# funkcija br 14
 }
 function MetodaIzvodjena($value='')
 {
+	global $brojac;
 	print_r("MetodaIzvodjena ". $value . "\n");
 	# funkcija br 15
 }
 function Ocena($value='')
 {
+	global $brojac;
 	print_r("Ocena ". $value . "\n");
 	# funkcija br 16
 }
