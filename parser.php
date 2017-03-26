@@ -78,6 +78,7 @@ function provera($niz='', $line)
 		$res = preg_match($pattern, $subject);
 
 		if($res === 1){
+
 			$key( trim( $line )  );		// upisi prvu liniju	
 			return $key; //flag, koji je aktivan
 			//break; //izlazi iz foreach-a
@@ -100,100 +101,127 @@ function provera($niz='', $line)
 
 function StudijskiProgram($value='')
 {
-
 	global $brojac;
 	$brojac++;
-	print_r( $brojac . " StudijskiProgram ". $value . "\n");
+
+	$upis = explode( "Studijski program/studijski programi:", $value);
+	print_r("{ id:". $brojac . " ,\n program:'". $upis[1] . "',\n");
 	# funkcija br 1
 }
 function VrstaStudija($value='')
 {
+	
 	global $brojac;
-	print_r("VrstaStudija ". $value . "\n");
+
+	$upis = explode( "Vrsta i nivo studija:", $value);
+	print_r(" id:". $brojac . " ,\n vrstaStudija:'". $upis[1] . "',\n");
 	# funkcija br 2
 }
 function NazivPredmeta($value='')
 {
+	if(empty( trim($value))) return;
+	//Naziv predmeta:
 	global $brojac;
-	print_r("NazivPredmeta ". $value . "\n");
+
+
+	$upis = explode( "Naziv predmeta:", $value);
+	
+	$temp = trim($upis[0]);
+	if(empty( $temp )) return;
+
+	if(empty($upis[1] ))
+		print_r(" id:". $brojac . " ,\n predmet:'". $temp . "',\n");
+	//print_r( $brojac ." NazivPredmeta ". $value . "\n");
 	# funkcija br 3
 }
 function Nastavnik($value='')
 {
 	global $brojac;
-	print_r("Nastavnik ". $value . "\n");
+	//Nastavnik:
+	$upis = explode( "Nastavnik:", $value);
+	
+	if( !empty( $upis[1] )  )
+		print_r(" id:". $brojac . " ,\n nastavnik:'". $upis[1] . "',\n");
+	
 	# funkcija br 4
 }
 function Status($value='')
 {
 	global $brojac;
-	print_r("Status ". $value . "\n");
+	//Status predmeta:Izborni
+	$upis = explode( "Status predmeta:", $value);
+	
+	print_r(" id:". $brojac . " ,\n status:'". $upis[1] . "',\n");
 	# funkcija br 5
 }
 function ESPB($value='')
 {
 	global $brojac;
-	print_r("ESPB ". $value . "\n");
+	$upis = explode( "Broj ESPB:", $value);
+	
+	print_r(" id:". $brojac . " ,\n ESPB:'". $upis[1] . "',\n");
 	# funkcija br 6
 }
 function Uslov($value='')
 {
 	global $brojac;
-	print_r("Uslov ". $value . "\n");
+	$upis = explode( "Uslov:", $value);
+	
+	print_r(" id:". $brojac . " ,\n uslov:'". $upis[1] . "',\n");
 	# funkcija br 7
 }
 function CiljPredmeta($value='')
 {
 	global $brojac;
-	print_r("CiljPredmeta ". $value . "\n");
+	print_r( $brojac ." CiljPredmeta ". $value . "\n");
 	# funkcija br 8
 }
 function Ishod($value='')
 {
 	global $brojac;
-	print_r("Ishod ". $value . "\n");
+	print_r( $brojac ." Ishod ". $value . "\n");
 	# funkcija br 9
 }
 function SadrzajPredmeta($value='')
 {
 	global $brojac;
-	print_r("SadrzajPredmeta ". $value . "\n");
+	print_r( $brojac ." SadrzajPredmeta ". $value . "\n");
 	# funkcija br 10
 }
 function TeorijskaNastava($value='')
 {
 	global $brojac;
-	print_r("TeorijskaNastava ". $value . "\n");
+	print_r( $brojac ." TeorijskaNastava ". $value . "\n");
 	# funkcija br 11
 }
 function PrakticnaNastava($value='')
 {
 	global $brojac;
-	print_r("PrakticnaNastava ". $value . "\n");
+	print_r( $brojac ." PrakticnaNastava ". $value . "\n");
 	# funkcija br 12
 }
 function Literatura($value='')
 {
 	global $brojac;
-	print_r("Literatura ". $value . "\n");
+	print_r( $brojac ." Literatura ". $value . "\n");
 	# funkcija br 13
 }
 function BrojCasova($value='')
 {
 	global $brojac;
-	print_r("BrojCasova ". $value . "\n");
+	print_r( $brojac ." BrojCasova ". $value . "\n");
 	# funkcija br 14
 }
 function MetodaIzvodjena($value='')
 {
 	global $brojac;
-	print_r("MetodaIzvodjena ". $value . "\n");
+	print_r( $brojac ." MetodaIzvodjena ". $value . "\n");
 	# funkcija br 15
 }
 function Ocena($value='')
 {
 	global $brojac;
-	print_r("Ocena ". $value . "\n");
+	print_r( $brojac ." Ocena ". $value . "\n");
 	# funkcija br 16
 }
 
