@@ -1,0 +1,1701 @@
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Đurić O. Dragan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                              Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi: Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Aničić M. Nenad
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova                                Broj časova aktivne nastave                                      Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Bulajić V. Milica,Vukmirović V. Dragan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                      Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način, uz korišćenje table i računara.
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Aničić M. Nenad,Babarogić S. Slađan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Uvod u informacione sisteme
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova                                 Broj časova aktivne nastave                                            Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vukmirović V. Dragan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                              Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način, uz korišćenje table i računara.
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujošević B. Mirko,Makajić-Nikolić D. Dragana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Teorija verovatnoće
+CiljPredmeta Cilj predmeta: a) da studenti ovladaju osnovnim znanjima iz teorije pouzdanosti i upoznaju se sa
+Ishod Ishod predmeta: studenti su osposobljeni da modeliraju realne probleme sa aspekta pouzdanosti sistema,
+SadrzajPredmeta Sadržaj predmeta
+PrakticnaNastava Praktična nastava: Vežbe se obavljaju u skladu sa planom teorijske nastave pri čemu se nastavne
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                              Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Simić B. Dejan,Minović V. Miroslav, Milovanović M. Miloš
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave (nedeljno)                                                            Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+PrakticnaNastava Praktična nastava                      20                  Pismeni ispit                          70
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Marjanović M. Zoran,Aničić M. Nenad,Babarogić S. Slađan
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova                             Broj časova aktivne nastave                                  Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                             Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Žarković P. Miloš,Jovanović Milenković V. Marina,Jeremić M. Veljko
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                        Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način, uz korišćenje table i računara.
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Milićević K. Vesna,Ilić J. Bojan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Minović V. Miroslav, Milovanović M. Miloš
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Petrović J. Bratislav
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+CiljPredmeta Cilj predmeta je upoznavanje studenata sa osnovnim konceptima, principima, modelima i tehnikama za
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Laboratorijske vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                       Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Čangalović M. Mirjana,Manojlović P. Vesna
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 5
+Uslov Uslov: Matematika 1
+CiljPredmeta Cilj predmeta Upoznavanje i savlađivanje nekih standardnih sadržaja diskretne matematike (kao što su
+Ishod Ishod predmeta Sadržaji ovog predmeta osposobljavaju studenta informatičara za formalizovani način
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Klasični način uz upotrebu table, folija i prezentacija na računaru.
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Minović V. Miroslav, Milovanović M. Miloš
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave (nedeljno)                                                         Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Milosavljević Đ. Gordana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                             Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Bulajić V. Milica,Radojičić A. Zoran,Vukmirović V. Dragan,Jeremić M. Veljko
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:/
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                             Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način, uz korišćenje table i računara.
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Kragulj P. Dragana,Jednak J. Sandra
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta Sticanje osnovnih znanja iz ekonomije (uvod u ekonomsku analizu, mikroekonomiju i
+Ishod Ishod predmeta Upoznavanje sa ekonomskom naukom; rasvetljavanje i savlađivanje osnovnih ekonomskih
+SadrzajPredmeta Sadržaj predmeta Teorijska nastava: Uvod u ekonomsku nauku; Predmet i metod ekonomije; Ekonomske
+PrakticnaNastava Praktična nastava: Časovi vežbi prate metodske jedinice predavanja.
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                             Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave Predavanja, vežbe, prezentacija seminarskih radova ieseja, studije slučaja,
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Radenković Lj. Božidar,Despotović-Zrakić S. Marijana,Bogdanović M. Zorica,Barać M.
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave nedeljno                                                              Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Stojanović A. Milica
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta Upoznavanje studenata sa osnovnim elementima teorije numeričke složenosti i analize
+Ishod Ishod predmeta Studenti će naučiti da samostalno kreiraju algoritme i da odrede njihovu numeričku
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava 1. Vremenska i prostorna složenost algoritma i problema. Polinomijalni algoritmi.
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                            Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Mentorski rad ili klasičan način.
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Jakić D. Gordana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 2
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                           Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                     Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Jakić D. Gordana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 2
+Uslov Uslov:/
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                        Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Jakić D. Gordana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Položeni ispiti iz predmeta Engleski jezik 1 i Engleski jezik 2
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                       Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                     Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Simić B. Dejan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: P-01: Uvod u zaštitu računarskih sistema. P-02: Bezbednosne pretnje i opasnosti. P-
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave (nedeljno)                                                             Ostali
+MetodaIzvodjena Metode izvođenja nastave Predavanja, vežbe, praktičan rad, konsultacije.
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+PrakticnaNastava Praktična nastava                     30                      Pismeni ispit                         30
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Devedžić B. Vladan,Jovanović M. Jelena,Tomić B. Bojan,Ševarac V. Zoran
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                            Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                      Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Radenković Lj. Božidar,Labus B. Aleksandra,Krčo M. Srđan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                    Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Bogdanović M. Zorica,Labus B. Aleksandra,Vukmirović V. Dragan,Janičić R. Radmila
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave nedeljno                                                              Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Radenković Lj. Božidar,Despotović-Zrakić S. Marijana,Bogdanović M. Zorica,Barać M.
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                     Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Radenković Lj. Božidar,Krčo M. Srđan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                     Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Bulajić V. Milica,Radojičić A. Zoran,Jeremić M. Veljko
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 5
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                              Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način, uz korišćenje table i računara.
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Kostić-Stanković M. Milica,Janičić R. Radmila,Štavljanin B. Velimir,Damnjanović Ž.
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 5
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta: Upoznati studente sa osnovama tržišne orijentacije poslovanja i marketinga,
+Ishod Ishod predmeta: Stečena osnovna znanja, sposobnosti i veštine u analizi tržišta kao i razvoju, primeni
+SadrzajPredmeta Sadržaj predmeta:
+TeorijskaNastava Teorijska nastava: Tržište kao polazište za primenu marketing koncepcije. Ciljni marketing. Sistem
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad: Metodologija studije
+Literatura Literatura:
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: predavanja ilustrovana pomoćnim audio-vizuelnim sredstvima, interaktivna
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujčić V. Vera,Stojanović A. Milica,Lazović P. Rade,Đorić S. Dragan,Mihić R.
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta Upoznavanje i savlađivanje matematičkih sadržaja koji se odnose na pojam broja, osnovne
+Ishod Ishod predmeta Studenti se osposbljavaju za korišćenje matričnog računa i diferencijalnog računa
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava 1. Uvodni pojmovi. 2. Algebarske strukture. 3. Pojam funkcije. 4. Pojam vektora.
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                            Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave Klasični način uz upotrebu table, folija i prezentacija na računaru.
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujčić V. Vera,Stojanović A. Milica,Lazović P. Rade,Đorić S. Dragan,Mihić R.
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta Upoznavanje i savlađivanje matematičkih sadržaja koji se odnose na diferencijalni račun
+Ishod Ishod predmeta Studenti se osposbljavaju za korišćenje diferencijalnog računa funkcija više
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava 1. Pojam funkcije više promenljivih. Granična vrednost i neprekidnost. 2.
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                            Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Klasični način uz upotrebu table, folija i prezentacija na računaru.
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujčić V. Vera,Stojanović A. Milica,Lazović P. Rade,Đorić S. Dragan,Mihić R.
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: Matematika 1
+CiljPredmeta Cilj predmeta Upoznavanje i savlađivanje matematičkih sadržaja koji se odnose na teoriju običnih
+Ishod Ishod predmeta Studenti se osposbljavaju za analizu i rešavanje jednostavnih klasa diferencijalnih
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava 1. Pojam diferencijalne jednačine (DJ). Pikarova teorema. 2. Metode rešavanja DJ
+PrakticnaNastava Praktična nastava: Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                            Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave Klasični način uz upotrebu table, folija i prezentacija na računaru.
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Manojlović P. Vesna
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta Veze između muzike i matematike uspostavljane su vekovima. Svojstva brojeva pomogla su
+Ishod Ishod predmeta Da se kod studenata probudi interes za opštu nauku o harmoniji, čiji je zadatak da
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava Matematika i muzika zajedno kroz istoriju,
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                            Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Klasični način uz upotrebu table, folija i prezentacija na računaru.
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Manojlović P. Vesna
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Matematika 1, Matematika 2
+CiljPredmeta Cilj predmeta Sticanje znanja iz opštih i posebnih metoda formalnog logičkog zaključivanja, sa
+Ishod Ishod predmeta Po završetku kursa student će ovladati tehnikama dokazivanja i opovrgavanja
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava Jezik iskaza i jezik predikata prvog reda.
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                        Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Mentorski rad ili klasičan način.
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Martić M. Milan,Savić I. Gordana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe i kreativne radionice
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                 Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Lazović P. Rade,Đorić S. Dragan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta Upoznavanje sa aktuelnim matematičkim softverskim paketima i njihovom primenom.
+Ishod Ishod predmeta Ovladavanje korišćenjem jednog softverskog paketa i upoznavanje sa još nekim.
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava Struktura MATLAB-a. Skalarne promenljive. Elementarne funkcije i izrazi.
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                      Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Standardne metode uz upotrebu računara.
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Delibašić V. Boris,Suknović M. Milija
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                              Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujošević B. Mirko,Makajić-Nikolić D. Dragana,Savić I. Gordana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Operaciona istraživanja 1
+CiljPredmeta Cilj predmeta:
+Ishod Ishod predmeta:
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: 1. Karakteristični problemi u inženjerstvu i menadžmentu u kojima se sreću fenomeni
+PrakticnaNastava Praktična nastava Vežbe: 1. Modeliranje neizvesnosti. 2. Određivanje funkcija pripadnosti. 3-5.
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                              Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Petrović Č. Dejan,Mihić M. Marko,Obradović Lj. Vladimir
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                            Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Orlić D. Ranko
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 5
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                          Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Levi-Jakšić I. Maja,Marinković P. Sanja
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 5
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta: Osnovni cilj predmeta je da studenti steknu saznanja iz funkcionalne oblasti menadžmenta
+Ishod Ishod predmeta: Izučavanjem predmeta studenti stiču znanja i veštine za rešavanje konkretnih pitanja
+SadrzajPredmeta Sadržaj predmeta:
+TeorijskaNastava Teorijska nastava: Menadžment tehnologije; Tehnologija i organizacija; Integrativni modeli
+PrakticnaNastava Praktična nastava: Analiza primera primene i rešavanje zadataka primenom različitih metoda iz
+Literatura Literatura:
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave: Predavanja, interaktivna nastava: radionice, razmena ideja i saznanja kroz
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujošević B. Mirko,Stanojević J. Milan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Operaciona istraživanja 1
+CiljPredmeta Cilj predmeta: Upoznavanje studenata sa primenama metoda optimizacije na procese odlučivanja u
+Ishod Ishod predmeta: Sa znanjima stečenim na ovom predmetu, studenti će biti u mogućnosti da sagledaju ulogu i
+SadrzajPredmeta Sadržaj predmeta
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave: Predavanja – klasično, uz interaktivan rad. Vežbe – samostalan rad uz pomoć i
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Radenković Lj. Božidar,Despotović-Zrakić S. Marijana,Bogdanović M. Zorica,Barać M.
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+CiljPredmeta Cilj predmeta je da se studenti upoznaju sa mobilnim tehnologijama u elektronskom poslovanju. Studenti
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                    Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Starčević B. Dušan,Minović V. Miroslav, Milovanović M. Miloš
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: P-01: Uvod u mobilno računarstvo. P-02: Bežične komunikacije. P-03: Standardi u
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave (nedeljno)                                                   Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Nešković N. Siniša,Aničić M. Nenad
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 5
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova                            Broj časova aktivne nastave                                      Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Bogojević-Arsić T. Vesna,Petrović J. Bratislav
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Laboratorijske vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                       Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Starčević B. Dušan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: Industrija multimedija. Tržište. Tehnologije. P-02: Multimedijalni studio.
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave (nedeljno)                                                          Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Starčević B. Dušan,Štavljanin B. Velimir
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: P-01: Uvod u multimedijalne informacione sisteme. Definicije. Motivacija i
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave (nedeljno)                                                         Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Lazarević D. Saša
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta: Razumevanje naprednih koncepata .NET platforme, kao i tehnologija zasnovanih na njima.
+Ishod Ishod predmeta: Osposobljenost studentata da razvijaju softver upotrebom naprednih .NET tehnologija.
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava: Vežbe su u potpunosti usklađena sa metodskim jedinicama sa predavanja.
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                       Ostali
+MetodaIzvodjena Metode izvođenja nastave: Predavanja: Predavanja ex cathedra i uz primenu multimedijalnih sredstava;
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vlajić S. Siniša
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                    Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Lazović P. Rade
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 5
+Uslov Uslov: Matematika 1
+CiljPredmeta Cilj predmeta Ovladati numeričkim metodama koje se koriste za rešavanje problema matematičke
+Ishod Ishod predmeta Osposobljavanje studenata za primenu numeričkih metoda i njihova softverska
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava Apsolutna i relativna greška približnog broja. Greške približne vrednosti
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Klasičan način i Beamer prezentacija. Osim teorijske i praktične nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Marjanović M. Zoran,Nešković N. Siniša,Vučković Đ. Milica,Aničić M. Nenad,Babarogić S.
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: -
+CiljPredmeta Cilj predmeta
+CiljPredmeta Cilj predmeta je da osposobi studente za samostalno istraživanje teoretskih aspekata izabrane teme i
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+PrakticnaNastava Praktična nastava: Mentorsko vođenje studenata u izradi seminarskih radova
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                             Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujošević B. Mirko,Čangalović M. Mirjana,Martić M. Milan,Stanojević J. Milan,Kuzmanović
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: Matematika 1, Matematika 2
+CiljPredmeta Cilj predmeta: Upoznavanje studenata sa osnovnim pojmovima i metodama operacionih istraživanja
+Ishod Ishod predmeta: Sadržaj ovog predmeta osposobljava sutedente za matematičko modeliranje poslovnih i
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: Uvod u operaciona istraživanja (OI) i matematičko programiranje: metodologija OI,
+PrakticnaNastava Praktična nastava: Osnovni pojmovi matematičkog modeliranja. Modeliranje standardnih problema u
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način (eks katedra) uz korišćenje table, računara, projektora,
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujošević B. Mirko,Čangalović M. Mirjana,Martić M. Milan,Stanojević J. Milan,Kuzmanović
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 5
+Uslov Uslov: Matematika 1, Matematika 2, Teorija verovatnoće
+CiljPredmeta Cilj predmeta: Pregled osnovnih primena metoda i tehnika operacionih istraživanja u različitim
+Ishod Ishod predmeta: Studenti se osposobljavaju za modeliranje i rešavanje praktičnih problema menadžmenta
+SadrzajPredmeta Sadržaj predmeta
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način (eks katedra) uz korišćenje table, računara, projektora,
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Stanojević J. Milan,Petrović B. Nataša
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Operaciona istraživanja 1, Operaciona istraživanja 2
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                    Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Simić B. Dejan, Milovanović M. Miloš
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 5
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave (nedeljno)                                                         Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Filipović V. Jovan,Vasiljević V. Dragan
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 5
+Uslov Uslov:
+CiljPredmeta Cilj predmeta:
+Ishod Ishod predmeta:
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: Istorijat kvaliteta. Razvoj nauke o kvalitetu Filozofski pravci u menadžmentu
+Literatura Literatura:
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Kuzmanović S. Marija,Martić M. Milan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe i kreativne radionice
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Stojanović A. Milica,Vučković Đ. Milica
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Matematika 1
+CiljPredmeta Cilj predmeta Savremeni način prikazivanja geometrijskih objekata. Rešavanje geometrijskih problema
+Ishod Ishod predmeta Studenti će moći samostalno da kreiraju algoritme i pišu programe za rešavanje
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava 1.Analitička geometrija u ravni: prava, krive  reda
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                          Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Mentorski rad ili klasičan način.
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Jaško O. Ondrej,Čudanov J. Mladen,Jevtić V. Miloš
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Milosavljević Đ. Gordana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                            Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Drakulić S. Mirjana
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 5
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Stanojević J. Milan,Makajić-Nikolić D. Dragana,Kuzmanović S. Marija,Savić I. Gordana
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Operaciona istraživanja
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: Pregled karakterističnih realnih optimizacionih problema u: proizvodnji, lancima
+PrakticnaNastava Praktična nastava: Modeliranje optimizacionih problema u nekom od algebarskih jezika. Rešavanje
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+TeorijskaNastava Teorijska nastava se odvija kao blok ili mentorska nastava, zavisno od broja studenata. Praktična nastava
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Lazarević D. Saša
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta: Upoznavanje sa ključnim konceptima programiranja, razvoja softvera i softverskog
+Ishod Ishod predmeta: Osposobljenost studentata da razvijaju softver primenom metode funkcionalne
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: P01: Programiranje: koncept, opšti model, jezik, proces. P02: Osnove organizacije
+PrakticnaNastava Praktična nastava:V01: Programerski (softverski) alati. V02: Niži programski jezici: primeri. V03:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                      Ostali
+MetodaIzvodjena Metode izvođenja nastave: Predavanja: Predavanja ex cathedra i uz primenu multimedijalnih sredstava;
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Devedžić B. Vladan,Jovanović M. Jelena,Tomić B. Bojan,Ševarac V. Zoran
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov: Programiranje 1
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Lazarević D. Saša
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta: Razumevanje principa, pravila i metoda pristupa podacima u softverskom sistemu.
+Ishod Ishod predmeta: Osposobljenost studentata da razvijaju softver za pristup podacima.
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava: Vežbe su u potpunosti usklađena sa metodskim jedinicama sa predavanja.
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                   Ostali
+MetodaIzvodjena Metode izvođenja nastave: Predavanja: Predavanja ex cathedra i uz primenu multimedijalnih sredstava;
+Ocena                                    Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vučković Đ. Milica,Nešković N. Siniša
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 5
+Uslov Uslov:
+CiljPredmeta Cilj predmeta U okviru ovog predmeta studenti stiču potrebna teorijska i praktična znanja o
+Ishod Ishod predmeta Stečena znanja o konceptima i karakteristikama savremenih programskih jezika
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova                             Broj časova aktivne nastave                                   Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vučković Đ. Milica
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 5
+Uslov Uslov: -
+CiljPredmeta Cilj predmeta: U okviru ovog predmeta studenti stiču potrebna teorijska i praktična znanja o
+Ishod Ishod predmeta: Stečena znanja o konceptima i karakteristikama savremenih prevodilaca omogućavaju
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova                                Broj časova aktivne nastave                                           Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Radović M. Milić,Slović D. Dragoslav
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta: Prepoznavanje procesa, resursa i struktura radnih sistema, fenomena i problema
+Ishod Ishod predmeta: Izučavanjem predmeta studenti stiču znanja i veštine za organizovanje osnovne
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: Osnovni pojmovi organizacije proizvodnje; Osnovni principi savremene proizvodne
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad: Određivanje nivoa
+Literatura Literatura:
+BrojCasova Broj časova aktivne nastave                                                                Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Marjanović M. Zoran,Aničić M. Nenad,Babarogić S. Slađan
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                            Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vlajić S. Siniša,Lazarević D. Saša
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                 Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Profesor će teorijski objasniti svaku od razmatranih tematskih jedinica i
+Ocena                                    Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Mihailović M. Dobrivoje
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Starčević B. Dušan,Minović V. Miroslav, Miloš M. Milovanović
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava :P-01: Računarske mreže i Internet. P-02: Aplikativni sloj. Protokoli na
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave (nedeljno)                                                         Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Đurić O. Dragan,Devedžić B. Vladan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Baze podataka
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Radenković Lj. Božidar,Marković M. Aleksandar,Despotović-Zrakić S. Marijana,Bogdanović
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                       Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                    Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Suknović M. Milija,Delibašić V. Boris
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Ševarac V. Zoran
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                   Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                    Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vlajić S. Siniša
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                           Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Đurić O. Dragan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                   Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Miladinović M. Slobodan, Petrović M. Dalibor
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                              Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Bulajić V. Milica,Radojičić A. Zoran,Jeremić M. Veljko
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način, uz korišćenje table i računara.
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Bulajić V. Milica
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način, uz korišćenje table i računara.
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Nešković N. Siniša,Vučković Đ. Milica
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                       Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Bulajić V. Milica,Radojičić A. Zoran,Jeremić M. Veljko
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Klasičan način, uz korišćenje table i računara.
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Suknović M. Milija,Delibašić V. Boris
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 5
+Uslov Uslov:
+CiljPredmeta Cilj predmeta: Sticanje znanja za rad sa metodama višeatributivnog odlučivanja i višekriterijumske
+Ishod Ishod predmeta: Student je osposobljen da radi sa reprezentativnim skupom metoda odlučivanja kao i da
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava: P-01: Uvod u odlučivanje. P-02: Metode višeatributivnog odlučivanja sa studijama
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad: V-01: Osnovne metode
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                 Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Petrović J. Bratislav
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Računske vežbe
+PrakticnaNastava Praktična nastava:Laboratorijske vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Petrović J. Bratislav
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Laboratorijske vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                 Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Pantelić S. Ognjen,Vučković Đ. Milica,Babarogić S. Slađan
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Čangalović M. Mirjana,Stanojević J. Milan,Mladenović M. Nenad
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Operaciona istraživanja 1, Operaciona istraživanja 2
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                              Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vujčić V. Vera,Mladenović M. Nenad,Mihić R. Olivera
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta Upoznavanje studenata sa najvažnijim modelima i metodama matematičkog programiranja i
+Ishod Ishod predmeta    Studenti se osposobljavaju za rešavanje optimizacionih problema uz pomoć računara.
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava 1. Primeri modeliranja realnih problema sredstvima matematičkog programiranja. 2.
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                         Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave Mentorski rad ili klasičan način.
+Ocena                              Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Marković M. Aleksandar
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Petrović J. Bratislav,Radojević Dragan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Laboratorijske vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                   Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne kademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Petrović J. Bratislav,Gajić R. Zoran
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Laboratorijske vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                      Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Petrović J. Bratislav,Radojević Dragan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+CiljPredmeta Cilj predmeta je upoznavanje sa osnovnim teorijskim konceptima, metodama i tehnikama za modelovanje
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Laboratorijske vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                     Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Vasiljević V. Dragan,Stanojević J. Milan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Logistika
+CiljPredmeta Cilj predmeta: Upoznavanje studenata sa ulogom lanaca snabdevanja u savremenom poslovanju, kao i sa
+Ishod Ishod predmeta: Osnovna teorijska i praktična znanja i veštine upravljanja procesima i tokovima u
+SadrzajPredmeta Sadržaj predmeta                                 Vežbe i praktične vežbe
+TeorijskaNastava Teorijska nastava                                V-01: Menadžer lanca snabdevanja.
+Literatura Literatura:
+BrojCasova Broj časova aktivne nastave                                                             Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave: Predavanja ex cathedra, interaktivne metode (kreativne radionice i studije
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Obradović Lj. Vladimir,Martić M. Milan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 5
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi:
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Despotović-Zrakić S. Marijana,Bogdanović M. Zorica,Barać M. Dušan,Labus B. Aleksandra
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                      Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Đurić O. Dragan,Devedžić B. Vladan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Strukture podataka i algoritmi
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava: Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                  Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnove akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Aničić M. Nenad,Babarogić S. Slađan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Analiza i logičko projektovanje IS (projekat)
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava:
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova                                  Broj časova aktivne nastave                                     Ostali
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Žarkić-Joksimović A. Nevenka,Benković S. Slađana,Barjaktarović-Rakočević M.
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 6
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, drugi oblici nastave, studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                     Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Cakeljić R. Vesna
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 2
+Uslov Uslov:
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                         Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                    Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Cakeljić R. Vesna
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 2
+Uslov Uslov: Francuski jezik struke 1
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                         Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                  Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Cakeljić R. Vesna
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Francuski jezik struke 1, Francuski jezik struke 2
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:Vežbe, Drugi oblici nastave, Studijski istraživački rad
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                                         Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                   Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Mladenović M. Nenad,Čangalović M. Mirjana,Stanojević J. Milan
+Status Status predmeta:Izborni
+ESPB Broj ESPB: 4
+Uslov Uslov: Operaciona istraživanja 1
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+TeorijskaNastava Teorijska nastava
+PrakticnaNastava Praktična nastava:
+Literatura Literatura
+BrojCasova Broj časova aktivne nastave                                                             Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Svi nastavnici na predmetu
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 2
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+BrojCasova Broj časova aktivne nastave                                                             Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                               Ocena znanja (maksimalni broj poena 100)
+StudijskiProgram Studijski program/studijski programi:Informacioni sistemi i tehnologije
+VrstaStudija Vrsta i nivo studija:Osnovne akademske studije
+NazivPredmeta Naziv predmeta:
+Nastavnik Nastavnik:Svi nastavnici na predmetu
+Status Status predmeta:Obavezni
+ESPB Broj ESPB: 7
+Uslov Uslov: /
+CiljPredmeta Cilj predmeta
+Ishod Ishod predmeta
+SadrzajPredmeta Sadržaj predmeta
+BrojCasova Broj časova aktivne nastave                                                               Ostali časovi
+MetodaIzvodjena Metode izvođenja nastave
+Ocena                                 Ocena znanja (maksimalni broj poena 100)

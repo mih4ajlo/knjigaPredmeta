@@ -1,0 +1,69 @@
+razbiti u celine
+celine obradjivati u posebnim funkcijama
+vracati rezultate
+
+1. Studijski program/studijski programi: Informacioni sistemi i tehnologije
+
+2. Vrsta i nivo studija:Osnovne akademske studije
+
+3.Naziv predmeta:
+
+XML tehnologije i aplikacije
+
+4.Nastavnik:Aničić M. Nenad
+
+5.Status predmeta:Izborni
+
+6.Broj ESPB: 4
+
+7.Uslov: /
+
+8.Cilj predmeta
+Unapređenje postojećih znanja studenata iz oblasti XML-a i pružanje novih znanja, tehnika i veština rada
+sa naprednim tehnologijama i aplikacijama zasnovanim na XML-u.
+
+9.Ishod predmeta
+Student će biti sposoban da kreira, analizira, obrađuje i transformiše XML dokumenta upotrebom
+naprednih XML tehnologija. Osim toga, biće u mogućnosti da primeni stečena znanja u različitim
+implemtacionim okvirima na svim slojevima arhitekture aplikacija (sloju baze podataka, sloju logike
+aplikacija i prezentacionom sloju).
+
+10.Sadržaj predmeta
+
+11.Teorijska nastava:
+Osnove XML-a (DTD, XML Schema). Povezivanje i navigacija (XLink, XPointer, XPath). Transformacije
+XML dokumenata (XSLT). Prikaz XML sadržaja na WEB-u (XHTML, CSS). Formatiranje XML podataka
+(XSL-FO). Kreiranje ekranskih formi za obradu XML dokumenata (XForms). Alati za kreiranje i obradu
+XML-a. Parsiranje XML dokumenata (DOM i SAX). Obrada XML-a u Javi. XML u aplikacionim
+okruženjima (Coocun, JSF, MyBatis, Hibernate, EJB). Upotreba XML za konfigurisanje i transport
+podataka. Generisanje XML dokumentima iz objektno-relacionih baza podatka. Skladištenje i obrada
+XML-a u bazama podatka. Semantički XML modeli podataka (RDFS, OWL). Priprema za ispit.
+
+12.Praktična nastava:
+Osnovni pojmovi XML dokumenata: Izrada jednostavnih primera. Osnovni pojmovi XML dokumenata:
+Izrada kompleksnih primera. Transformacije XML dokumenata upotrebom XSLT-a: Izrada jednostavnih
+primera. Transformacije XML dokumenata upotrebom XSLT-a: Izrada kompleksnih primera. Prikaz XML
+sadržaja na WEB-u (XHTML, CSS). Formatiranje XML podataka upotrebom XSL-FO funkcija i tipova
+podataka. Upotreba XForms-a za kreiranje ekranskih formi. Parsiranje XML dokumenata upotrebom DOM
+i SAX: Izrada jednostavnih primera. Parsiranje XML dokumenata upotrebom DOM i SAX: Izrada
+kompleksnih primera. Prikaz i upotreba XML u aplikacionim okruženjima. Upotreba SQL-a za
+generisanje XML-a iz objektno-relacionih baza podataka. Skladištenje i obrada XML-a u bazama podataka.
+XML i JavaScript. Upotreba web-servisa za manipulaciju XML –om. Priprema za ispit.
+
+13.Literatura
+    1. Skonnard A., Gudgin M., Essential XML Quick Reference: A Programmer's Reference to XML, XPath,
+        XSLT, XML Schema, SOAP, and More, Addison-Wesley Professional, Reading 2001.
+    2. Rusty Harold, E., Processing XML with Java, Addison-Wesley Professional, Reading 2002.
+    3. Kay M., XSLT: Programmer's Reference (Programmer to Programmer), Wiley Publishing, Indianapolis
+        2003.
+
+14.                               Broj časova aktivne nastave                                      Ostali
+ Predavanja: 2      Vežbe: 2     Drugi oblici nastave:        Studijski istraživački rad:        časovi:
+
+15.Metode izvođenja nastave
+Klasična predavanja (30 časova) i klasične vežbe (30 časova)
+
+16.                               Ocena znanja (maksimalni broj poena 100)
+       Predispitne obaveze                   Poena                  Završni ispit                Poena
+kolokvijum-i                            30                  usmeni ispit                      30
+seminar-i                               50                  domaći zadaci                     20
